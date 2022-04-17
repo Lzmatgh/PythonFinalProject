@@ -1,0 +1,9 @@
+apikey_weatherapi = "84e2d2e664mshcd1b6525dbc6e5ep183dd4jsn3142247d749b"
+apikey_covidapi = "84e2d2e664mshcd1b6525dbc6e5ep183dd4jsn3142247d749b"
+apikey_yelpfusionapi = 'trstP_YelIyF4ljeLos7oxaBGFnMAu_7rVrmTcrmXws43FwwqHY786l0DkecDvGVvb_T5NyKuw3JocEDqBd8LyaoftZ-_vkBeaYG4BgY4-yBDoHsVDSfbIXt4hJWYnYx'
+
+# #  Yelp API
+# Client_ID = '3aYNEWdWOiNz7OeFql8k6g'
+#
+# API_Key = 'trstP_YelIyF4ljeLos7oxaBGFnMAu_7rVrmTcrmXws43FwwqHY786l0DkecDvGVvb_T5NyKuw3JocEDqBd8LyaoftZ-_vkBeaYG4BgY4-yBDoHsVDSfbIXt4hJWYnYx'
+
